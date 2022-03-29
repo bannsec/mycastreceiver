@@ -40,6 +40,7 @@ cast-media-player {
 /* ------------------------------------------------- */
 /* Sample Overlay Text                               */
 /* ------------------------------------------------- */
+/*
 cast-media-player:after {
   content: "SAMPLE";
   position: absolute;
@@ -54,3 +55,4 @@ cast-media-player:after {
   opacity: 0.5;
   color: red;
 }
+*/
